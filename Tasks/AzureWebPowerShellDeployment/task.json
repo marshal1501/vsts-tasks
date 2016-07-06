@@ -26,7 +26,7 @@
       "label": "Azure Subscription",
       "defaultValue": "",
       "required": true,
-      "helpMarkDown": "Azure subscription to target for deployment."
+      "helpMarkDown": "Azure Classic subscription to target for deployment."
     },
     {
         "name": "WebSiteLocation",
